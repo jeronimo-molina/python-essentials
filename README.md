@@ -4,6 +4,8 @@
 
 # Pytthon Essentials para quem é de Humanas
 
+![Jupyter Notebook](https://github.com/jeronimo-molina/python-essentials/blob/main/assets/thumb1.jpg)
+
 Bem-vindo ao repositório **Introdução ao Python para Humanidades**! Este repositório foi criado para ajudar estudantes e profissionais das áreas de Humanidades a darem seus primeiros passos em programação, com foco na linguagem Python.
 
 ## Sobre o Projeto
