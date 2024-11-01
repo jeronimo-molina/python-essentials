@@ -26,7 +26,9 @@ O repositório inclui uma série de notebooks e arquivos explicativos organizado
    - Posso usar o Anaconda?
    - Jupyter Notebook no VSCode
      
-3. (**[Tipos de Dados]**(https://medium.com/@derossimolina/tipos-de-dados-em-python-15086f010a04))
+3. **[Tipos de Dados](https://medium.com/@derossimolina/tipos-de-dados-em-python-15086f010a04)**
+
+
    - Explicação dos tipos básicos:
      - Inteiros ✅
      - Flutuantes ✅
