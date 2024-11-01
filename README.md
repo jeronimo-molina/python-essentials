@@ -2,7 +2,7 @@
 ![Version - alpha](https://img.shields.io/badge/Version-alpha-purple?style=for-the-badge&logo=github&logoColor=white)
 ![Human - friendly](https://img.shields.io/badge/Human-friendly-yellow?style=for-the-badge)
 
-# Pytthon Essentials para quem é de Humanas
+# Python Essentials para quem é de Humanas
 
 ![Jupyter Notebook](https://github.com/jeronimo-molina/python-essentials/blob/main/assets/thumb1.jpg)
 
