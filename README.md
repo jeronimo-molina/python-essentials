@@ -17,7 +17,7 @@ Python é uma das linguagens mais acessíveis para iniciantes e amplamente utili
 O repositório inclui uma série de notebooks e arquivos explicativos organizados da seguinte forma:
 
 1. **Introdução ao Python** 
-   - História e popularidade da linguagem
+   - [História e popularidade da linguagem](https://medium.com/@derossimolina/hist%C3%B3ria-do-python-26e6750f3c83)
    - Por que Python é relevante para Humanidades
   
 2. **Instalando o ambiente** 🚧
